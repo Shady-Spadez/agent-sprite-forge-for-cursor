@@ -9,3 +9,10 @@ agent-sprite-forge/.git/
 
 assets/*
 .superpowers/*
+
+# Godot (when this repo is copied into a Godot project)
+.godot/
+.import/
+*.import
+.mono/
+export_presets.cfg
