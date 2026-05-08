@@ -1,0 +1,10 @@
+.venv/
+output/
+__pycache__/
+*.pyc
+bash.exe.stackdump
+
+agent-sprite-forge/.git/
+
+assets/*
+.superpowers/*
