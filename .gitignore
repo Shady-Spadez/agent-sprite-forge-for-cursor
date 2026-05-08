@@ -7,8 +7,10 @@ bash.exe.stackdump
 
 agent-sprite-forge/.git/
 
-assets/*
+.worktrees/*
+output/*
 .superpowers/*
+docs/superpowers/*
 
 # Godot (when this repo is copied into a Godot project)
 .godot/
